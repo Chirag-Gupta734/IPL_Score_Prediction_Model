@@ -99,7 +99,7 @@ Performance Metrics: R² Score, Mean Absolute Error
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/ipl-score-prediction.git
+git clone https://github.com/Chirag-Gupta734/ipl-score-prediction.git
 cd ipl-score-prediction
 
 
